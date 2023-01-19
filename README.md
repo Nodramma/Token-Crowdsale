@@ -13,7 +13,7 @@ Below are the images showing:
 
 3. Compile of the KaseiCoinCrowdsaleDeployer contract
 
-![screenshot](./Evaluation_evidence/03KaseiCoinCroudsaleDeployer_compile.png)
+![screenshot](./Evaluation_evidence/03KaseiCoinCrowdsaleDeployer_compile.png)
 
 4. Deploy of the KaseiCoinCrowdsaleDeployer contract
 
