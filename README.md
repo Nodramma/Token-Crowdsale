@@ -29,12 +29,12 @@ Below are the images showing:
 
 7. Demonstration of the difference in supply 
 
-![screenshot](./Evaluation_evidence/07difference_supply.png.png)
+![screenshot](./Evaluation_evidence/07difference_supply.png)
 
 8. Demonstration of the transaction in Ganash
 
-![screenshot](./Evaluation_evidence/08Transaction_in_Ganache.png.png)
+![screenshot](./Evaluation_evidence/08Transaction_in_Ganache.png)
 
 9. Demonstration of transaction in MetaMask
 
-![screenshot](./Evaluation_evidence/09Transaction_in_MetaMask.png.png)
+![screenshot](./Evaluation_evidence/09Transaction_in_MetaMask.png)
